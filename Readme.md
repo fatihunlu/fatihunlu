@@ -5,3 +5,15 @@
 - 📱 Working in Turkey as an Fullstack Web Developer. 
 - 🌏 For Front-End, like Vue.js.
 - 🛠 For Back-End, like C#.
+
+### 💬 Get in touch 
+
+<a href="https://medium.com/@unlu-fa" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@unlu-fa">
+</a>
+<a href="https://www.linkedin.com/in/fatih-unlu" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/fatih-unlu">
+</a>
+<a href="mailto:unlu.fa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:unlu.fa@gmail.com">
+</a>
