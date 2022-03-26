@@ -1,19 +1,41 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fatihunlu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### Hello, folks! 👋 I am Fatih!
 
-### Hi there👋 I am Fatih!
+- I'm  a Fullstack Web Developer.
+- I'm a Vue.js fan.
+- For Front-End, like Vue.js.
+- For Back-End, like C#, Node.js.
+- Currently learning Go.
+- Love open source development.
+   
+### 🧰 Most Used Languages
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihunlu&layout=compact&theme=dracula" />
+</p>
 
-- 📱 Working in Turkey as an Fullstack Web Developer. 
-- 🌏 For Front-End, like Vue.js.
-- 🛠 For Back-End, like C#.
+
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihunlu&show_icons=true&count_private=true&theme=dracula" />
+</p>
+    
+### 🏆 Profile Trophy
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=fatihunlu&theme=dracula" alt="fatihunlu" /></p>
+  <div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihunlu&style=for-the-badge" alt="fatihunlu" /> </p>
+  </div>
+</p>
+
+<br />
 
 ### 💬 Get in touch 
 
 <a href="https://medium.com/@unlu-fa" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@unlu-fa">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@unlu-fa">
 </a>
 <a href="https://www.linkedin.com/in/fatih-unlu" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/fatih-unlu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/fatih-unlu">
+    
 </a>
 <a href="mailto:unlu.fa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:unlu.fa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:unlu.fa@gmail.com">
 </a>
