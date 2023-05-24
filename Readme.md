@@ -3,27 +3,20 @@
 - I'm  a Fullstack Web Developer.
 - I'm a Vue.js fan.
 - For Front-End, like Vue.js.
-- For Back-End, like C#, Node.js.
-- Currently learning Go.
+- For Back-End, like Go, C#.
 - Love open source development.
    
 ### 🧰 Most Used Languages
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihunlu&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihunlu&layout=compact&count_private=true&theme=transparent&border_radius=12" />
 </p>
 
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihunlu&show_icons=true&count_private=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihunlu&show_icons=true&count_private=true&theme=transparent&border_radius=12" />
 </p>
     
-### 🏆 Profile Trophy
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=fatihunlu&theme=dracula" alt="fatihunlu" /></p>
-  <div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihunlu&style=for-the-badge" alt="fatihunlu" /> </p>
-  </div>
-</p>
 
 <br />
 
