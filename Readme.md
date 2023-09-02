@@ -9,3 +9,6 @@
 <a href="https://www.linkedin.com/in/fatih-unlu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/fatih-unlu">
 </a>
+<a href="https://fatihunlu.dev" target="_blank">
+    <img src="https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="https://www.linkedin.com/in/fatih-unlu">
+</a>
