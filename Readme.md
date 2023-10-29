@@ -5,6 +5,11 @@
 - For Front-End, like Vue.js.
 - For Back-End, like Go, C#.
 - Love open-source development.
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatihunlu&theme=calm)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatihunlu&theme=calm)
    
 <a href="https://www.linkedin.com/in/fatih-unlu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/fatih-unlu">
