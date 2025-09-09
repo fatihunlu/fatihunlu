@@ -1,10 +1,6 @@
 
 # Hi there 👋, I'm Fatih Ünlü
 
-I'm a **passionate software developer** who is always learning, improving, and sharing knowledge.  
-I enjoy working on **backend architectures, microservices, and scalable systems** while also writing articles on [Medium](https://medium.com/@unlu-fa) and contributing to **open-source projects**.
-In my spare time, I also enjoy building **hobby projects with Vue** to explore new ideas.
-
 
 Welcome to my GitHub! 🚀
 
