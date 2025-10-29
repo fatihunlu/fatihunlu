@@ -36,6 +36,8 @@ Welcome to my GitHub! 🚀
 
 ## ✍️ Latest Medium Articles
 
+- [Kafka Series Vol. 4: Dead Letter Queue](https://medium.com/@unlu-fa/kafka-series-vol-4-dead-letter-queue-624202a78404)
+- [Time Series in MongoDB Using C#](https://medium.com/@unlu-fa/time-series-in-mongodb-using-c-6670e7af3917)
 - [Kafka Series Vol. 3: Handling Follow Events in Social Media](https://unlu-fa.medium.com/kafka-series-vol-3-handling-follow-events-in-social-media-8f82084b561a)
 - [Kafka Series Vol. 2: From Serialization to Consumer Groups](https://unlu-fa.medium.com/kafka-series-vol-2-from-serialization-to-consumer-groups-109b498c89d3)
 - [Kafka Series Vol. 1: What is Kafka?](https://medium.com/@unlu-fa/kafka-series-vol-1-what-is-kafka-e687fe32bb26)
