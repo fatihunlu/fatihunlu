@@ -10,6 +10,7 @@ A self-hosted database migration, validation, and reconciliation platform for en
 
 <p align="left">
   <a href="https://db-migrator.com" target="_blank"><img src="https://img.shields.io/badge/Website-db--migrator.com-4F46E5?style=for-the-badge&logo=globe&logoColor=white" /></a>
+  <a href="https://db-migrator.com/#desktop" target="_blank"><img src="https://img.shields.io/badge/Download_%26_Install-0078D4?style=for-the-badge" alt="Download &amp; Install" /></a>
   <a href="https://hub.docker.com/r/fatihun/db-migrator" target="_blank"><img src="https://img.shields.io/badge/Docker_Hub-fatihun%2Fdb--migrator-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://hub.docker.com/r/fatihun/db-migrator" target="_blank"><img src="https://img.shields.io/docker/pulls/fatihun/db-migrator?style=for-the-badge&logo=docker&logoColor=white&color=092540&label=Pulls" /></a>
 </p>
